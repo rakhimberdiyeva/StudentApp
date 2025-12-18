@@ -254,3 +254,4 @@ async def deactivate(student_id: int):
         student["is_active"] = False
     return student
 
+
